@@ -12,16 +12,16 @@ Before running the app, please ensure you have the following installed on your m
   git clone https://github.com/madgrv/HOPE-Router.git
 
 2. Navigate to the project directory:
-   cd HOPE-Router
+   `cd HOPE-Router`
 
 3. Install the required dependencies by running the following command:
-   npm install
+   `npm install`
 
 
 
 ## Running the App
 1. Once the dependencies are installed, start the development server with the following command:
-   npm start
+   `npm start`
 
 2. The app will now be running on your local machine. Open your web browser and visit the following URL:
    http://localhost:3000
